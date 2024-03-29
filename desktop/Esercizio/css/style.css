@@ -1,0 +1,121 @@
+/* Your styles here */
+body {font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-family: Body #393d41  1.2rem  Open Sans  interlinea 1.65
+    Headings #25a2c3  Montserrat (bold)  interlinea 1.5
+    Footer #c8e7f0
+    Footer Heading white
+    Footer link #c8e7f0    
+}
+
+div#logo {width: 100%;
+          background-color: black;
+}
+
+div#logo img {width: 250px;
+}
+
+div#sfondouno {background-image: url(../images/banner.jpg);
+               height: 500px;
+               background-position: center center;
+                background-size: cover;
+}
+
+div#sfondouno h1 {text-align: center;
+                   padding-top: 90px;
+                  font-size: x-large;
+                 color: #2aa4c4 ;
+}
+
+div#sfondouno p {text-align: center;
+                  width: 40%;
+                  margin-left: 450px;
+                  padding-top: 20px;
+                  margin-bottom: 40px;
+}
+
+
+
+div#tasto .partiamo b {border: 1px solid #e22d0e;
+                        background-color: #e22d0e;
+                          color: white;
+                         padding: 5px;
+                         margin-top: 20%;
+}
+
+div#mack img {float: left;
+                 margin-top: 150px;
+                  margin-left: 300px;
+                   border-radius: 70%;}
+
+
+div#sfondodue { text-align: left;
+                ;}
+
+div#sfondodue h3 {color: #25a2c3;
+                   margin-left: 700px;}
+
+
+div#sfondodue {text-align: left;
+                margin-top: 200px;}
+
+
+div#sfondodue h3 {color: #25a2c3 ;
+                   text-align: left;
+                 margin-left: 800px;}
+
+
+div#sfondodue p {margin-left: 800px;
+                  }
+
+div#sfondotre {margin-top: 200px;
+                background-color: #e22d0e;
+               height: 250px;}
+
+div#sfondotre h1 {text-align: center;
+                  color: white;
+                  padding-top: 70px;
+                  font-size: 30px;}
+
+div#sfondotre p {text-align: center;
+                  color: white;
+                 padding-top: 30px;}
+
+div#sfondotre h2 {text-align: center;
+                   color: white;
+                 padding-top: 30px;
+                  font-size: 20px;}
+
+div#sfondotre h4 {text-align: center;
+                  color: white;
+                 font-size: 10px;
+                  padding-top: 10px;}
+
+div#sfondo4 img {float: left;
+             width: 400px;
+             margin-top: 70px;} 
+             
+div#sfondo4 .tre {padding-left: 100px;
+                    float: right;
+                  margin-right: 150px;
+                  }
+
+div#sfondo4 .due {float: right;
+                   margin-right: 100px;}
+
+div#sfondo4 .uno {float: left;
+                  margin-left: 30px;}
+
+
+#divsfondo5 { width: 100px;
+    height: 100px;
+    margin-top: 350px;
+    padding-left: 180px;
+}                         
+ 
+div#sfondo5 h1 {color: #25a2c3;
+    width: 100px;
+    height: 200px;
+    margin-top: 250px;
+    margin-left: 180px;}
+
+
