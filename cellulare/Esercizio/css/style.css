@@ -1,0 +1,221 @@
+/* Your styles here */
+body {font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-family: Body #393d41  1.2rem  Open Sans  interlinea 1.65
+    Headings #25a2c3  Montserrat (bold)  interlinea 1.5
+    Footer #c8e7f0
+    Footer Heading white
+    Footer link #c8e7f0    
+}
+div#logo img {width: 200px;
+              margin-left: 120px;
+               margin-top: 20px;
+            background-color: black;
+}
+div#logo {background-color: black;
+           padding-bottom: 30px;
+}
+
+div#sfondouno {background-image: url(../images/banner.jpg);
+                height: 400px;
+                background-size: cover;
+                 background-position: center;
+}
+
+div#sfondouno h1 {text-align: center;
+                  padding-top: 40px;
+                  font-size: 40px;
+                   color: #23a1ca;
+}
+
+div#sfondouno p {text-align: center;
+                 padding-top: 25px;
+                 font-size: 15px;
+                color: #535556;
+}
+
+div#sfondouno .partiamo {border: 1px solid #f24a2a;
+                          margin-left: 145px;
+                          margin-top: 50px;
+                          padding-bottom: 20px;
+                          color: white;
+                          background-color: #f24a2a;
+                          margin-right: 90px;
+                          width: 110px;
+                          padding-left: 10px;
+                          padding-right: 10px;
+                          border-radius: 5%;
+                          padding: 15px;
+}
+
+div#sfondodue h3 {text-align: center;
+                  margin-top: 40px;
+                  color: #1b9fc2;
+                  font-size:larger;
+                  margin-bottom: 25px;
+}
+
+div#sfondodue p {text-align: center;
+                 width: 250px;
+                 margin-left: 90px;
+                 color: #535556;
+}
+
+div#sfondodue img {width: 60%;
+                   margin-left: 80px;
+                   margin-top: 30px;
+                   border-radius: 50%;
+}
+
+div#sfondotre {background-color: #e82a0c;
+               margin-top: 50px;
+               padding-bottom: 40px;
+}
+
+div#sfondotre h2 {text-align: center;
+                  color: white;
+                  font-size: 40px;
+                  padding-top: 85px;
+}
+
+div#sfondotre p {color: white;
+                  text-align: center;
+                 padding-top: 30px;
+}
+
+div#sfondotre h4 {text-align: center;
+                  color: white;
+                   font-size: 24px;
+}
+
+div#sfondotre .puno {padding-top: 1%;
+}
+
+div#sfondoquattro img {width: 380px;
+                       margin-left: 25px;
+                       margin-top: 50px;
+}
+
+div#sfondocinque {margin-left: 26px;
+                  margin-right: 26px;
+                  padding-bottom: 20px;
+                  border-left: 1px solid #cbcccc;
+                  border-right: 1px solid #cbcccc;
+                  border-bottom: 1px solid #cbcccc;
+                  border-bottom-left-radius: 3%;
+                  border-bottom-right-radius: 3%;
+                  padding-top: 20px;
+}
+
+
+div#sfondocinque h3 {text-align: center;
+                      color: #1b9fc2;
+                     font-size: 20px;
+                     margin-top: 1px;
+}
+
+div#sfondocinque p {text-align: center;
+                      margin-top: 20px;
+}
+
+div#sfondosei img {width: 376px;
+                   
+                   margin-top: 50px;
+}
+
+div#sfondosei     {margin-left: 26px;
+                  margin-right: 26px;
+                  padding-bottom: 20px;
+                  
+                  padding-top: 20px;
+}
+
+
+div#sfondosei h3 {text-align: center;
+                      color: #1b9fc2;
+                     font-size: 20px;
+                     margin-top: 2px; 
+                     padding-bottom: 10px;
+                     border-left: 1px solid #cbcccc;
+                     border-right: 1px solid #cbcccc;
+}
+
+div#sfondosei p  {text-align: center;
+                      padding-bottom: 15%;
+                      border-left: 1px solid #cbcccc;
+                     border-right: 1px solid #cbcccc;
+                     border-bottom: 1px solid #cbcccc;
+                     border-bottom-left-radius: 3%;
+                     border-bottom-right-radius: 3%;
+}
+
+div#sfondosette img {width: 370px;
+                     margin-left: 30px;
+                     margin-top: 40px;                                       
+}
+
+div#sfondosette h3 {text-align: center;
+                    color: #1b9fc2;
+                    font-size: 20px;
+                    margin-top: 1px;
+                    margin-left: 30px;
+                    margin-right: 30px; 
+                    padding-bottom: 10px;
+                    border-left: 1px solid #cbcccc;
+                    border-right: 1px solid #cbcccc;
+                    
+}
+
+div#sfondosette p  {text-align: center;
+                    padding-bottom: 10%;
+                    margin-left: 30px;
+                    margin-right: 30px;
+                    border-right: 1px solid #cbcccc;
+                    border-left: 1px solid #cbcccc;
+                    border-bottom: 1px solid #cbcccc;
+                    border-bottom-left-radius: 3%;
+                    border-bottom-right-radius: 3%;
+}
+
+
+div#sfondootto {width: 450px;
+                background-color: #1fa0ba;
+                margin-top: 60px;
+                padding-top: 30px;
+                
+                color: white;
+                text-align: center;
+                 font-size: 40px;
+}
+
+
+div#sfondootto p a {color: white;                   
+                  font-size: medium;
+} 
+                 
+div#sfondonove {width: 450px;
+                background-color: #1fa0ba;
+                color: white;
+                 padding-top: 10px;
+                 text-align: center;
+                 
+}
+div#sfondodieci { background-color: #1fa0ba;                  
+}
+
+div#sfondodieci p {border-bottom: 1px dotted white;
+                    margin-left: 110px;
+                   margin-right: 110px;
+}
+
+div#sfondoundici {background-color: #1fa0ba;
+                   padding-top: 30px;
+}
+
+div#sfondoundici p {text-align: center;
+                     color: white;
+                     padding-bottom: 50px;
+}
+
+span {text-decoration: underline;}
+
+                                
