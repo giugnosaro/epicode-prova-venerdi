@@ -1,0 +1,123 @@
+/* Your styles here */
+
+body {width: 100%;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #e9edee;
+}
+
+#logo {background-color: #222f3f;
+        height: 4.4em;
+}
+
+#logo img { width: 10%;
+            
+}
+
+#coldue {background-color: #364759;
+          height: 1.5em;
+          padding-top: 0.5em ;
+}
+
+#coldue .menu {color: white;
+            padding-right: 1em;
+            padding-left: 1em; 
+}
+
+#titolo {text-align: center;
+         background-color: #f56600;
+         margin-top: 2%;
+         padding: 0.7em 0 0.7em 0;
+         margin-left: 2em;
+         margin-right: 2em;
+}
+
+#titolo h3 {color: #fce2d5;
+}
+
+#backimg { background-image:url(../images/bg-image.png) ;
+           background-repeat: repeat;
+           background-position: center;
+           height: 4.8em;
+           padding-bottom: 7em;
+           margin: 2em 2em 0 2em;
+           margin-top: 2em;
+           
+}
+
+#backimg h1 { color:white;
+              text-align: center;
+              font-size: xx-large;
+              padding-top: 2em;
+              
+
+}
+
+#backimg p {color:white;
+            text-align: center;
+            padding-top: 2em;
+}
+
+#backcol { background-color: white;
+           padding-bottom: 1em;
+           margin-left: 2em;
+           margin-right: 2em;
+           
+
+}
+
+#backcol p { margin-top: 1.5em;
+             padding-bottom: 1em;
+             padding-top: 1em;
+             margin-left: 2em;
+
+}
+
+
+#backcol img {width: 26.3em;
+               height:20em;
+              border-radius: 5%;
+              box-shadow: 4px 3px rgba(43, 43, 43, 0.123);
+              margin-left: 2em;
+              
+              
+              
+
+}
+
+.foto {margin-left: 2em;
+        margin-right: 2em;
+        margin-top: 2em;
+        }
+
+.foto img { width: 100%;
+            height: 25em;
+            
+}
+
+.foto p { text-align: center;           
+}
+
+.col { color: #035064;
+
+}
+
+#piede {background-color: #364759;
+        height: 1.5em;
+        padding-top: 0.5em ;
+        margin-top: 2em;
+}
+
+#piede p { text-align: center;                     
+}
+
+#piede a {color: white;
+          font-size: small;
+}
+
+#fine {background-color:#222f3f;
+       text-align: center;
+}
+#fine img {width: 8%;
+           padding-top: 2%;
+           padding-bottom: 2%;
+}
